@@ -1,6 +1,7 @@
 package net.khai.tutormod;
 
 import net.khai.tutormod.block.ModBlocks;
+import net.khai.tutormod.item.ModCreativeModTabs;
 import org.slf4j.Logger;
 import net.khai.tutormod.item.ModItems;
 
@@ -37,6 +38,8 @@ public class TutorMod {
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModTabs.register(modEventBus);
+
         // Register our items
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
@@ -62,6 +65,7 @@ public class TutorMod {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.BISMUTH_BLOCK);
             event.accept(ModBlocks.BISMUTH_ORE);
+            event.accept(ModBlocks.BISMUTH_DEEPSLATE_ORE);
         }
     }
 

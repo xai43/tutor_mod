@@ -1,7 +1,14 @@
 {
   "item.tutormod.bismuth": "Bismuth",
   "item.tutormod.raw_bismuth": "Raw Bismuth",
+  "item.tutormod.chisel": "Chisel",
 
-  "block.tutormod.bismuth_block": "Block of Bismuth"
-  "block.tutormod.bismuth_ore": "Bismuth Ore"
+  "block.tutormod.bismuth_block": "Block of Bismuth",
+  "block.tutormod.bismuth_ore": "Bismuth Ore",
+  "block.tutormod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
+
+  "creativetab.tutormod.bismuth_items": "Bismuth Items",
+  "creativetab.tutormod.bismuth_blocks": "Bismuth Blocks",
+
+  "creativetab.tutormod.magic_block": "Magic block"
 }
