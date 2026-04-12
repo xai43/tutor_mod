@@ -13,5 +13,10 @@
   "creativetab.tutormod.bismuth_items": "Bismuth Items",
   "creativetab.tutormod.bismuth_blocks": "Bismuth Blocks",
 
-  "creativetab.tutormod.magic_block": "Magic block"
+  "creativetab.tutormod.magic_block": "Magic block",
+
+  "tooltip.tutormod.magic_block.tooltip": "This Block is very §9MAGICAL!§r",
+
+  "tooltip.tutormod.chisel.shift_down": "This Item can chisel  Blocks into Bricks",
+  "tooltip.tutormod.chisel": "Press §eShift§r for mor Information"
 }
