@@ -35,10 +35,10 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.BISMUTH.get(), 18)
                 .requires(ModBlocks.MAGIC_BLOCK)
                 .unlockedBy("has_magic_block", has(ModBlocks.MAGIC_BLOCK))
-                .save(recipeOutput, "tutor_mod:magic_block_=_bismuth");
+                .save(recipeOutput, "tutormod:magic_block_equals_bismuth");
 
         oreSmelting(recipeOutput, BISMUTH_SMELTABLES, RecipeCategory.MISC, ModItems.BISMUTH.get(), 0.25f, 200, "bismuth");
-        oreBlasting(recipeOutput, BISMUTH_SMELTABLES, RecipeCategory.MISC, ModItems.BISMUTH.get(), 0.25f, 200, "bismuth");
+        oreBlasting(recipeOutput, BISMUTH_SMELTABLES, RecipeCategory.MISC, ModItems.BISMUTH.get(), 0.25f, 100, "bismuth");
 
     }
 }
