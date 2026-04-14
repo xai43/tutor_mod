@@ -9,11 +9,10 @@
   "block.tutormod.bismuth_block": "Block of Bismuth",
   "block.tutormod.bismuth_ore": "Bismuth Ore",
   "block.tutormod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
+  "block.tutormod.magic_block": "Magic Block",
 
   "creativetab.tutormod.bismuth_items": "Bismuth Items",
   "creativetab.tutormod.bismuth_blocks": "Bismuth Blocks",
-
-  "creativetab.tutormod.magic_block": "Magic block",
 
   "tooltip.tutormod.magic_block.tooltip": "This Block is very §9MAGICAL!§r",
 

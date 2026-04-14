@@ -9,14 +9,12 @@
   "block.tutormod.bismuth_block": "Блок Бисмута",
   "block.tutormod.bismuth_ore": "Бисмутовая Руда",
   "block.tutormod.bismuth_deepslate_ore": "Глубенносланцевая Бисмутовая Руда",
+  "block.tutormod.magic_block": "Волшебный Блок",
 
   "creativetab.tutormod.bismuth_items": "Предметы Бисмута",
   "creativetab.tutormod.bismuth_blocks": "Блоки Бисмута",
 
-  "creativetab.tutormod.magic_block": "Волшебный Блок",
-
   "tooltip.tutormod.magic_block.tooltip": "Этот Блок очень §9Волшебный§r",
-
   "tooltip.tutormod.chisel.shift_down": "Зубило может превращать блоки в кирпичи",
   "tooltip.tutormod.chisel": "Нажмите §eShift§r что бы получить больше информации"
 }
