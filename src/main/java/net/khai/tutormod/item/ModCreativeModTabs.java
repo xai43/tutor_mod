@@ -56,8 +56,6 @@ public class ModCreativeModTabs {
 
                     }).build());
 
-//[I][EGGS][BIT][BBT]
-
     public static void register(IEventBus eventBus)  {
         CREATIVE_MODE_TAB.register(eventBus);
     }
