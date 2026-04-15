@@ -1,0 +1,6 @@
+// 1.21	2026-04-15T19:20:51.9942148	Tags for minecraft:block mod id tutormod
+25cae9785fef85b296ce2ed6737ff0301e17494b data/minecraft/tags/block/fences.json
+c687cbc950c5c83dc788db8c5a041a7655c811ba data/minecraft/tags/block/fence_gates.json
+eefaa116364b8eb3a9052c713354ec097345681d data/minecraft/tags/block/mineable/axe.json
+417b91fa2eb16b44f7ddc825b760eafaeac2f0f8 data/minecraft/tags/block/needs_iron_tool.json
+3d10396a5c73e35b43cf80817e87881ee741308c data/minecraft/tags/block/walls.json
