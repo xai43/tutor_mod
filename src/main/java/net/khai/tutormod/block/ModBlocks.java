@@ -42,7 +42,7 @@ public class ModBlocks {
     public static final DeferredBlock<SlabBlock> BISMUTH_SLAB = registerBlock("bismuth_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
 
-    public static final DeferredBlock<PressurePlateBlock> BISMUTH_PLASSURE_PLATE = registerBlock("bismuth_plassure_plate",
+    public static final DeferredBlock<PressurePlateBlock> BISMUTH_PRESSURE_PLATE = registerBlock("bismuth_pressure_plate",
             () -> new PressurePlateBlock(BlockSetType.IRON, BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
     public static final DeferredBlock<ButtonBlock> BISMUTH_BUTTON = registerBlock("bismuth_button",
             () -> new ButtonBlock(BlockSetType.IRON, 20, BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops().noCollission()));
@@ -56,7 +56,7 @@ public class ModBlocks {
 
     public static final DeferredBlock<DoorBlock> BISMUTH_DOOR = registerBlock("bismuth_door",
             () -> new DoorBlock(BlockSetType.IRON, BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops().noOcclusion()));
-    public static final DeferredBlock<TrapDoorBlock> BISMUTH_TRAP_DOOR = registerBlock("bismuth_trap_door",
+    public static final DeferredBlock<TrapDoorBlock> BISMUTH_TRAPDOOR = registerBlock("bismuth_trapdoor",
             () -> new TrapDoorBlock(BlockSetType.IRON, BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops().noOcclusion()));
 
 

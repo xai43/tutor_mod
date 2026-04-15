@@ -42,7 +42,7 @@ public class ModCreativeModTabs {
                         output.accept(ModBlocks.BISMUTH_SLAB);
 
                         output.accept(ModBlocks.BISMUTH_DOOR);
-                        output.accept(ModBlocks.BISMUTH_TRAP_DOOR);
+                        output.accept(ModBlocks.BISMUTH_TRAPDOOR);
                         output.accept(ModBlocks.BISMUTH_STAIRS);
 
                         output.accept(ModBlocks.BISMUTH_FENCE_GATE);
@@ -50,7 +50,7 @@ public class ModCreativeModTabs {
                         output.accept(ModBlocks.BISMUTH_WALL);
 
                         output.accept(ModBlocks.BISMUTH_BUTTON);
-                        output.accept(ModBlocks.BISMUTH_PLASSURE_PLATE);
+                        output.accept(ModBlocks.BISMUTH_PRESSURE_PLATE);
 
                         output.accept(ModBlocks.MAGIC_BLOCK);
 
