@@ -1,10 +1,11 @@
-// 1.21	2026-04-15T19:20:51.9922156	Block States: tutormod
+// 1.21	2026-04-16T16:02:16.6639503	Block States: tutormod
 37d340114ef133b030ff86e6b2905f4dfa33b4b7 assets/tutormod/blockstates/bismuth_block.json
 267cd18c31b5d7bb86a694332be1ab93ee1046bf assets/tutormod/blockstates/bismuth_button.json
 c74cf2496a216fb06b44edb19f51fe5089f23821 assets/tutormod/blockstates/bismuth_deepslate_ore.json
 848c1b923932f25f16888696d04dd4894d099d1f assets/tutormod/blockstates/bismuth_door.json
 10c7fb3c801dd9658b326e2dc24cf1baa0dce6f1 assets/tutormod/blockstates/bismuth_fence.json
 3eb352fae83aaa9db07f159f1a87cc5ed8fce9da assets/tutormod/blockstates/bismuth_fence_gate.json
+d404286923f062a5f13526eccc0f94f004d647de assets/tutormod/blockstates/bismuth_lamp.json
 3c620061798357960dc575f0906037364e64bc7d assets/tutormod/blockstates/bismuth_ore.json
 8da3f5f964a36676dc2a95812e813c5211922b00 assets/tutormod/blockstates/bismuth_pressure_plate.json
 b37ba470f6c84bc2fa0d66d541bef4da12bd0ff8 assets/tutormod/blockstates/bismuth_slab.json
@@ -30,6 +31,8 @@ aff2355f9a4c991da45e6989bdd578eab770be68 assets/tutormod/models/block/bismuth_fe
 6fdfab70fbf94f4cc7b504c95cd018c00c67d455 assets/tutormod/models/block/bismuth_fence_gate_wall_open.json
 988444cb73a8b4c7a212938eabc18d5b1c6ed9b2 assets/tutormod/models/block/bismuth_fence_post.json
 269386a747f1857ac943309be9a6d40bf7c5415d assets/tutormod/models/block/bismuth_fence_side.json
+5ab9e07274a892afe086c904cb2267540172b074 assets/tutormod/models/block/bismuth_lamp_off.json
+1a65663039d48a6842195c126c446ba7cf5bbbce assets/tutormod/models/block/bismuth_lamp_on.json
 381708ac2fbb4e59b6b0a497e48732e60834854d assets/tutormod/models/block/bismuth_ore.json
 bb546580b24ab499c97e2bc99d95095ba854051b assets/tutormod/models/block/bismuth_pressure_plate.json
 097e8e1304a8f45bccb872178bd8f88be2344660 assets/tutormod/models/block/bismuth_pressure_plate_down.json
@@ -48,6 +51,7 @@ c47ee6c5d51949b49e1e25bb9fbfce8436b1e05b assets/tutormod/models/block/bismuth_wa
 da48a95a7a859d54e41f35b6c9b7c42e8f1559e2 assets/tutormod/models/item/bismuth_block.json
 7624b377236557f95a1d0ac03d5e2a979feb3052 assets/tutormod/models/item/bismuth_deepslate_ore.json
 89a73a57845e0490c3904533720baeedf7e46a57 assets/tutormod/models/item/bismuth_fence_gate.json
+a3658cf517c69e1339dc756af8f8b56ef8ff5dd6 assets/tutormod/models/item/bismuth_lamp.json
 666d9410a4fb1b5cb33f3d6e0e6c0f5d7c72a9e6 assets/tutormod/models/item/bismuth_ore.json
 5810b1430a6ce50bca36403c9684b5b06e0fc418 assets/tutormod/models/item/bismuth_pressure_plate.json
 4fbb7b104aa1aef366b31a7448c91ee8a36c08a6 assets/tutormod/models/item/bismuth_slab.json

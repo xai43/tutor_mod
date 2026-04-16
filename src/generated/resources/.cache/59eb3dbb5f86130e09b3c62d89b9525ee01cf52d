@@ -1,10 +1,11 @@
-// 1.21	2026-04-15T19:20:51.9912139	Loot Tables
+// 1.21	2026-04-16T16:02:16.6619443	Loot Tables
 003fa000efe2faf6ec50945e11f69b8f9fda752e data/tutormod/loot_table/blocks/bismuth_block.json
 7be0aa9514218a90b1f61ee5b6efca89cee4c1f0 data/tutormod/loot_table/blocks/bismuth_button.json
 abb44c59175140710a4939cb8785957c8d5ff2de data/tutormod/loot_table/blocks/bismuth_deepslate_ore.json
 f454b2e827b5a69f6d8788c25da5c2dddd8eb511 data/tutormod/loot_table/blocks/bismuth_door.json
 441637dbcd1d4f20be574f28ef1863d459d32b12 data/tutormod/loot_table/blocks/bismuth_fence.json
 dff286c607259cf404c7791c63c04084301042f3 data/tutormod/loot_table/blocks/bismuth_fence_gate.json
+40898ee29127f9ac4ce0d7d0caf74a616cbfcf74 data/tutormod/loot_table/blocks/bismuth_lamp.json
 8844fb1613145c2ac7a40fc43ce3c416f4135314 data/tutormod/loot_table/blocks/bismuth_ore.json
 95ebf137ef74495902f185c7ba96daec693a22d2 data/tutormod/loot_table/blocks/bismuth_pressure_plate.json
 f332625fd60932a3b16a2d53325deccd3d96fe59 data/tutormod/loot_table/blocks/bismuth_slab.json

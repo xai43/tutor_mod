@@ -54,6 +54,8 @@ public class ModCreativeModTabs {
 
                         output.accept(ModBlocks.MAGIC_BLOCK);
 
+                        output.accept(ModBlocks.BISMUTH_LAMP);
+
                     }).build());
 
     public static void register(IEventBus eventBus)  {
